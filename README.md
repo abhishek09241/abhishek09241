@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer working on **Digital Design** and **Verification**. I specialize in **DFF design**, **SystemVerilog**, and **UVM-based verification**.
+Welcome to my GitHub profile! I'm a passionate developer working on **Digital Design** and **Verification**. I specialize in **Design**, **SystemVerilog**, and **UVM-based verification**.
 
 ## 🚀 About Me:
 - 🔭 I’m currently working on **Design and Verification Projects**
